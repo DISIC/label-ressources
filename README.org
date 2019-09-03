@@ -1,6 +1,6 @@
 * Ressources pour LABEL
 
-Ce dépôt rassemble des ressources préparatoires pour la mission LABEL de la DINSIC.  Cette mission est citée [ici](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/) :
+Ce dépôt rassemble des ressources préparatoires pour la mission LABEL de la DINSIC.  Cette mission est citée [[https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/][ici]].
 
 : LABEL : labelliser des solutions et des outils numériques de qualité
 : pour faciliter leur emploi par les porteurs de projets publics.
