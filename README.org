@@ -1,0 +1,24 @@
+* Ressources pour LABEL
+
+Ce dépôt rassemble des ressources préparatoires pour la mission LABEL de la DINSIC.  Cette mission est citée [ici](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/) :
+
+: LABEL : labelliser des solutions et des outils numériques de qualité
+: pour faciliter leur emploi par les porteurs de projets publics.
+
+- [[file:labels.org][Liste des labels]] (certifications, qualifications, etc.) existants
+- Liste des produits et services actuellement [[file:labellises.org][labellisés]]
+- Liste des produits et services [[file:encours.org][en cours de labellisation]]
+
+Dans ces trois listes, les produits et services développés par l'État et les collectivités seront indiqués différemment.
+
+* Contribution
+
+Vous pouvez contribuer à ce dépôt :
+
+- en signalant l'existence d'un label, d'une certification ou qualification émise par un organisme public ;
+- en signalant l'existence de produits logiciels ou de services numériques labellisés ou certifiés par un organisme public ;
+- en corrigeant tout type d'erreur.
+
+* Licence
+
+Ce dépôt est publié par la DINSIC sous [[file:LICENSE][licence Ouverte 2.0]].
